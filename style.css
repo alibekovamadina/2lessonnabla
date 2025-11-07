@@ -21,6 +21,15 @@
 .header-list1 .header-list2 {
     list-style: none;
     display: flex;
-    gap: 20px;    
+    gap: 20px; 
+    
 }
 
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    
+}
