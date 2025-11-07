@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nabla {
+    padding: 24px 312px;
+    color: blue;
+    font-size: 23px;
+}
+
+.header-links {
+    padding: 28px 440px;
+    color: blue;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+
+.header-list1 .header-list2 {
+    list-style: none;
+    display: flex;
+    gap: 20px;    
+}
+
